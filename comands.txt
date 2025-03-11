@@ -10,3 +10,10 @@ git add -A => adding all changes to starting area
 
 git commit -m "commit message" => adding staged files to local repository
 
+git remote add origin  https://github.com/umairkta/git-intro.git
+                 ^
+        easy to remember name
+
+git remote -v        
+
+https://github.com/umairkta/new_repository.git
