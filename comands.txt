@@ -31,3 +31,5 @@ this new line in student
 
 from master:
 git merge branch_name
+
+this changed from repository
