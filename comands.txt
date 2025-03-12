@@ -17,3 +17,8 @@ git remote add origin  https://github.com/umairkta/git-intro.git
 git remote -v        
 
 https://github.com/umairkta/new_repository.git
+
+
+git romote add remote_name remote_path
+
+git push remote_name branch_name
